@@ -5,8 +5,8 @@
  */
 final class KeyLogger
 {
-    static private $connectionString = "mysql:host=localhost;dbname=projetphp";
-    static private $username = "root";
+    static private $connectionString = "mysql:host=localhost;dbname=";
+    static private $username = "";
     static private $password = "";
 
     private function __construct() {}
