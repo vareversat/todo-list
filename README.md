@@ -1,6 +1,6 @@
 # TODO-List
 
-Web site based on MVC architecture pattern. You can create lists of tasks and mark them as complete.
+Web site based on MVC architectural pattern. You can create lists of tasks and mark them as complete.
 The data are managed by the MySQL SGBD.
 
 ## Developers
