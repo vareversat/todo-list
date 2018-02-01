@@ -1,0 +1,24 @@
+body {
+    background: url('http://ekladata.com/l9xfUYPYN32cblUTgwn7mHpbX5c.jpg') no-repeat fixed;
+}
+
+.content{
+    margin: 3% 0%;
+}
+
+.errorContainer{
+    margin-top: 15%;
+    color:white;
+    z-index: 100;
+    padding: 20px;
+    background: rgba(34,34,34,0.75);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    margin: 0;
+    font-size: 130%;
+}
